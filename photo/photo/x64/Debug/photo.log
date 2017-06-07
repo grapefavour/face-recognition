@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\opencv\mybuild\install\include\opencv2\core\mat.hpp(1932): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\mybuild\install\include\opencv2\core\mat.hpp(2665): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\mybuild\install\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\mybuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\mybuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\mybuild\install\include\opencv2\imgproc.hpp(606): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\visual studio 2015\projects\photo\photo\main.cpp(43): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\visual studio 2015\projects\photo\photo\main.cpp(44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  photo.vcxproj -> D:\visual studio 2015\Projects\photo\x64\Debug\photo.exe
+  photo.vcxproj -> D:\visual studio 2015\Projects\photo\x64\Debug\photo.pdb (Full PDB)
