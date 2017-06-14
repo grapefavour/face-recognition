@@ -1,0 +1,18 @@
+﻿  main.cpp
+D:\OpenCV\MyBuild\install\include\opencv2/core/mat.hpp(1932): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\OpenCV\MyBuild\install\include\opencv2/core/mat.hpp(2665): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\OpenCV\MyBuild\install\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\OpenCV\MyBuild\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\OpenCV\MyBuild\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\OpenCV\MyBuild\install\include\opencv2/imgproc.hpp(606): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\OpenCV\MyBuild\install\include\opencv2\face.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\OpenCV\MyBuild\install\include\opencv2/face.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+main.cpp(86): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+main.cpp(87): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  28 of 334 functions ( 8.4%) were compiled, the rest were copied from previous compilation.
+    21 functions were new in current compilation
+    23 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  FaceRecon.vcxproj -> D:\visual studio 2015\Projects\FaceRecon\x64\Release\FaceRecon.exe
+  FaceRecon.vcxproj -> D:\visual studio 2015\Projects\FaceRecon\x64\Release\FaceRecon.pdb (Full PDB)
